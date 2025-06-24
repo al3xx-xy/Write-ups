@@ -20,4 +20,4 @@ document.location = "https://0a3e00fb0302e68e807703d8002c0087.web-security-acade
 </script>
 ```
 
-and it work :).
+and it works :).

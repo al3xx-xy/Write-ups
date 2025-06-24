@@ -13,6 +13,6 @@ When I inspect the page source code, I found that my message was written in anot
 <img src="IMG/S5.png">
 
 So, I tried to inject `bla" autofocus onfocus="alert('XSS')`.
-and it's work :)
+and it's works :)
 
 <img src="IMG/S3.png">

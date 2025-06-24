@@ -10,6 +10,6 @@ I tried to inject an XSS payload into the search query like in the previous chal
 
 it gives the value of any input into `serachTerms` variable and i tried to inject :
 `bla'; alert('XSS'); //`
-and it's work :)
+and it's works :)
 
 <img src="IMG/S3.png">
