@@ -22,7 +22,7 @@ If an attacker can control a script that is executed in the victim's browser, th
 [[Write-ups/XSS/Reflected XSS/Write-Up 2]]
 [[Write-ups/XSS/Reflected XSS/Write-Up 3]]
 [[Write-ups/XSS/Reflected XSS/Write-Up 4]]
-[[Write-Up 5]]
+[[Write-ups/XSS/Reflected XSS/Write-Up 5]]
 [[Write-Up 6]]
 [[Write-Up 6]]
 [[Write-Up 7]]
