@@ -1,4 +1,5 @@
 [[Write-ups/XSS/Reflected XSS/Overview| Reflected XSS Overview]]
+[[Write-ups/XSS/DOM XSS/Overview|DOM XSS Overview]]
 
 ## What is Stored XSS
 

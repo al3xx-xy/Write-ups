@@ -15,3 +15,10 @@ A common way to share CSRF tokens with the client is to include them as a hidden
 
 ```
 
+[[Write-ups/CSRF/CSRF tokens/Write-Up 1|Write-Up 1]]
+[[Write-ups/CSRF/CSRF tokens/Write-Up 2|Write-Up 2]]
+[[Write-ups/CSRF/CSRF tokens/Write-Up 3|Write-Up 3]]
+[[Write-ups/CSRF/CSRF tokens/Write-Up 4|Write-Up 4]]
+[[Write-ups/CSRF/CSRF tokens/Write-Up 5|Write-Up 5]]
+
+

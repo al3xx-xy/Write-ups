@@ -1,5 +1,5 @@
 [[Write-ups/XSS/Stored XSS/Overview|Stored XSS Overview]]
-
+[[Write-ups/XSS/DOM XSS/Overview|DOM XSS Overview]]
 ## What is reflected cross-site scripting?
 
 **Reflected XSS**: In a reflected XSS attack, the malicious code is embedded in a link that is sent to the victim. When the victim clicks on the link, the code is executed in their browser. For example, an attacker could create a link that contains malicious JavaScript, and send it to the victim in an email. When the victim clicks on the link, the JavaScript code is executed in their browser, allowing the attacker to perform various actions, such as stealing their login credentials.
