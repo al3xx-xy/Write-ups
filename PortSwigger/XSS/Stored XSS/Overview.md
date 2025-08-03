@@ -1,5 +1,5 @@
-[[Write-ups/XSS/Reflected XSS/Overview| Reflected XSS Overview]]
-[[Write-ups/XSS/DOM XSS/Overview|DOM XSS Overview]]
+[[Write-ups/PortSwigger/XSS/Reflected XSS/Overview| Reflected XSS Overview]]
+[[Write-ups/PortSwigger/XSS/DOM XSS/Overview|DOM XSS Overview]]
 
 ## What is Stored XSS
 
@@ -14,6 +14,6 @@ After this comment has been submitted, any user who visits the blog post will re
 
 `<p>This post was extremely helpful.</p>`
 
-[[Write-ups/XSS/Stored XSS/Write-Up 1|Write-Up 1]]
-[[Write-ups/XSS/Stored XSS/Write-Up 2|Write-Up 2]]
-[[Write-ups/XSS/Stored XSS/Write-Up 3|Write-Up 3]]
+[[Write-ups/PortSwigger/XSS/Stored XSS/Write-Up 1|Write-Up 1]]
+[[Write-ups/PortSwigger/XSS/Stored XSS/Write-Up 2|Write-Up 2]]
+[[Write-ups/PortSwigger/XSS/Stored XSS/Write-Up 3|Write-Up 3]]

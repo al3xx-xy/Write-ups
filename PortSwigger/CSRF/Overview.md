@@ -52,4 +52,4 @@ With these conditions in place, the attacker can construct a web page containing
 
 Nowadays, successfully finding and exploiting CSRF vulnerabilities often involves bypassing anti-CSRF measures deployed by the target website, the victim's browser, or both. The most common defenses you'll encounter are as follows:
 
-[[Write-ups/CSRF/CSRF tokens/Overview|CSTF Tokens]]
+[[Write-ups/PortSwigger/CSRF/CSRF tokens/Overview|CSTF Tokens]]
