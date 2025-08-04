@@ -4,13 +4,14 @@
 - [x] [[Ignite]]
 - [x] [[Basic Pentesting]]
 - [x] [[RootMe]]
-- [x] Agent Sudo
+- [x] [[Agent Sudo]]
+- [ ] [[LazyAdmin]]
 
 | Challenge               | Main Focus / What You Learn                                       | Done |
 | ----------------------- | ----------------------------------------------------------------- | ---- |
 | RootMe                  | Web exploitation, Linux enumeration, privilege escalation         | Yes  |
 | SimpleCTF               | Linux enumeration, privilege escalation, basic CTF                | Yes  |
-| Agent Sudo              | Linux privilege escalation, enumeration                           |      |
+| Agent Sudo              | Linux privilege escalation, enumeration                           | Yes  |
 | Lazy Admin              | Web exploitation, weak passwords, basic enumeration               |      |
 | Wgel CTF                | Web exploitation, enumeration, privilege escalation               |      |
 | Bounty Hacker           | Enumeration (FTP, web), brute forcing, Linux privilege escalation |      |

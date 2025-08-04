@@ -1,7 +1,7 @@
 > Thu 31 Jul 2025
 > al3xx
 
-![[Write-ups/TryHackMe/Linux/img/s7.png]]
+![[s7.png]]
 
 # Simple CTF [Link](https://tryhackme.com/room/easyctf)
 

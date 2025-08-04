@@ -1,7 +1,7 @@
 > Thu 31 Jul 2025
 > al3xx
 
-![[Write-ups/TryHackMe/Linux/img/s1.png|350]]
+![[s1.png|350]]
 
 # Ignite [Link](https://tryhackme.com/room/ignite)
 ## 1. Reconnaissance

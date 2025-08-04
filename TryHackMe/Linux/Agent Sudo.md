@@ -1,9 +1,9 @@
 > Mon 04 Aug 2025
 > al3xx
 
-![[Write-ups/TryHackMe/Linux/img/s10.png|350]]
+![[s10.png|350]]
 
-# Box Name / Target IP
+# Agent Sudo [Link](https://tryhackme.com/room/agentsudoctf)
 
 ## 1. Reconnaissance
 ### TCP Scan
