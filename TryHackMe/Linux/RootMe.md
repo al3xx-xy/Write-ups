@@ -1,7 +1,7 @@
 > Sun 3 Aug 2025
 > al3xx
 
-![[Write-ups/TryHackMe/Linux/img/s9.png]]
+![[Write-ups/TryHackMe/Linux/img/s9.png|350]]
 # RootMe
 
 ## 1. Reconnaissance

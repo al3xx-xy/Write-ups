@@ -15,43 +15,38 @@ _Example: Exploit a reflected XSS vulnerability to execute arbitrary JavaScript 
 ---
 
 ## 🧠 Key Concepts
-- [Concept 1]
-- [Concept 2]
-- [Concept 3]
+- 
+- 
 
 ---
 
 ## 🛠️ Tools Used
-- [Browser (e.g., Firefox, Chrome)]
-- [Burp Suite]
-- [JavaScript payloads or other tools]
+- Firefox
+- Burp Suite
 
 ---
 
 ## 🧪 Steps to Solve
 
 ### 1. Reconnaissance
-_What did you observe when you opened the lab?_  
-- [Page structure, input fields, behavior]
+
 
 ### 2. Testing for Vulnerability
 _What tests did you run?_  
-- [Initial payloads tested]
-- [Reflection behavior]
+
 
 ### 3. Bypassing Filters (if needed)
-- [How you bypassed filtering/sanitization]
-- [Any encoding or special characters used]
+
 
 ### 4. Final Payload
 **Payload:**  
-```html
-<script>alert(document.domain)</script>
+```TEXT
+
 ```
 
 ### 5. 🧨 Exploit Success
 
-- [Alert box appeared / lab marked as completed]
+
 
 
 ---
@@ -59,6 +54,3 @@ _What tests did you run?_
 ## ✅ Conclusion
 
 **What did you learn from this lab?**
-- [Takeaway 1]
-- [Takeaway 2]
-- [Takeaway 3]

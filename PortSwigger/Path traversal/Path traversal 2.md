@@ -1,3 +1,6 @@
+> Mon 3 Aug 2025
+> al3xx
+
 # 🧾 PortSwigger Write-up: File path traversal, traversal sequences blocked with absolute path bypass
 
 ## 🔍 Lab Info
@@ -10,7 +13,7 @@
 
 ## 🎯 Objective
 **What is the goal of this lab?**  
-To solve the lab, retrieve the contents of the `/etc/passwd` file.
+*To solve the lab, retrieve the contents of the `/etc/passwd` file.*
 
 ---
 

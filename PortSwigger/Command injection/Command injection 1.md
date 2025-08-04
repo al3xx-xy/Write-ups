@@ -1,3 +1,6 @@
+> Mon 3 Aug 2025
+> al3xx
+
 # 🧾 PortSwigger Write-up: OS command injection, simple case
 
 ## 🔍 Lab Info

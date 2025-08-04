@@ -1,3 +1,6 @@
+> Mon 3 Aug 2025
+> al3xx
+
 # 🧾 PortSwigger Write-up: Blind OS command injection with time delays
 
 ## 🔍 Lab Info
